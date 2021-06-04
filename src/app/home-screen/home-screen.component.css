@@ -1,0 +1,16 @@
+/* div.page {
+    overflow: scroll;
+    opacity:0.8;
+    background-color:#24bed6;
+    position:fixed;
+    width:100%;
+    height:100%;
+    top:0px;
+    left:0px;
+    z-index:1000;
+  } */
+
+.title{
+    background-color:#FFF;
+}
+
